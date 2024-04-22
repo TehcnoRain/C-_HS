@@ -1,0 +1,18 @@
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\bin\Debug\Pacman.exe
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\bin\Debug\Pacman.pdb
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.Form1.resources
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.Properties.Resources.resources
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\Alfa\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\Alfa\documents\visual studio 2010\Projects\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\Alfa\documents\visual studio 2010\Projects\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\user\Pictures\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\user\Pictures\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\Pacman.Form1.resources
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\Pacman.Properties.Resources.resources
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Pictures\Pacman\Pacman\obj\x86\Debug\GenerateResource.write.1.tlog

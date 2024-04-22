@@ -1,0 +1,17 @@
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\bin\Debug\Simon Says.exe
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\bin\Debug\Simon Says.pdb
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.csprojResolveAssemblyReference.cache
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.csproj.GenerateResource.Cache
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.exe
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.pdb
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.exe
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\Simon Says.pdb
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\bin\Debug\Simon Says.exe
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\bin\Debug\Simon Says.pdb
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\New folder (2)\SImon Says\Simon Says\Simon Says\obj\x86\Debug\GenerateResource.write.1.tlog

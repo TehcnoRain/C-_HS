@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Menu\Menu\obj\x86\Debug\Menu.pdb

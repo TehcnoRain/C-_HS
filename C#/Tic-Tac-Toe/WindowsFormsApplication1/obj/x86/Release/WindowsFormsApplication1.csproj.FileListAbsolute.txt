@@ -1,0 +1,6 @@
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

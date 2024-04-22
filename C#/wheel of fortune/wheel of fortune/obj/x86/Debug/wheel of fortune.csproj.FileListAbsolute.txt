@@ -1,0 +1,11 @@
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\bin\Debug\wheel of fortune.exe
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\bin\Debug\wheel of fortune.pdb
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\wheel of fortune.exe
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\wheel of fortune.pdb
+C:\Users\Zeke\Desktop\wheel of fortune\wheel of fortune\obj\x86\Debug\GenerateResource.read.242.tlog

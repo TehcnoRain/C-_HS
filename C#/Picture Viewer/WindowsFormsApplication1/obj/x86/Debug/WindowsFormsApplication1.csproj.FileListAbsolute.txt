@@ -1,0 +1,9 @@
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+R:\DYOUV\ICS3U Semester 2 McGuire\Homework\Ezekiel\UNIT 2 - C Sharp\Assignment 8\Picture Viewer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

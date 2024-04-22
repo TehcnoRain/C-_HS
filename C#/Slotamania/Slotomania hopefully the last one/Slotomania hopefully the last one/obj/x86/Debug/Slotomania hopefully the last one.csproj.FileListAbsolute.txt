@@ -1,0 +1,17 @@
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\bin\Debug\Slotomania hopefully the last one.exe
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\bin\Debug\Slotomania hopefully the last one.pdb
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.exe
+E:\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.pdb
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.exe
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.pdb
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\bin\Debug\Slotomania hopefully the last one.exe
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\bin\Debug\Slotomania hopefully the last one.pdb
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.csproj.GenerateResource.Cache
+R:\DYOUV\ICS4U McGuire\Homework\Thomas, Shane\Not Ready\Slotamania\Slotomania hopefully the last one\Slotomania hopefully the last one\obj\x86\Debug\Slotomania hopefully the last one.csprojResolveAssemblyReference.cache

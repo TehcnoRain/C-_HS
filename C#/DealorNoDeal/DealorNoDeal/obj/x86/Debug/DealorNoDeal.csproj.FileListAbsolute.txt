@@ -1,0 +1,17 @@
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.csprojResolveAssemblyReference.cache
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.csproj.GenerateResource.Cache
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\bin\Debug\DealorNoDeal.exe
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\bin\Debug\DealorNoDeal.pdb
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.exe
+C:\Users\Harold\Desktop\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.pdb
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.exe
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\DealorNoDeal.pdb
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\bin\Debug\DealorNoDeal.exe
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\bin\Debug\DealorNoDeal.pdb
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Downloads\Shanes Shit\DealorNoDeal\DealorNoDeal\obj\x86\Debug\GenerateResource.write.1.tlog

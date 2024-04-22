@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Piglatin\Piglatin\bin\Debug\Piglatin.exe
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Piglatin\Piglatin\bin\Debug\Piglatin.pdb
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Piglatin\Piglatin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Piglatin\Piglatin\obj\x86\Debug\Piglatin.exe
+C:\Users\user\Downloads\Shanes Shit\Unit 2 - C sharp\Assignment 6 - Arrays\Piglatin\Piglatin\obj\x86\Debug\Piglatin.pdb

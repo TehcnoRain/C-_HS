@@ -1,0 +1,12 @@
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\centre-fsrv07\stuhome$\335911632\visual studio 2010\Projects\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\Client\E$\Tic-Tac-Toe\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
